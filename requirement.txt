@@ -1,0 +1,12 @@
+tailwindcss @tailwindcss/vite 
+-D daisyui@latest
+zustand       
+axios         
+cors           
+multer         
+child_process  
+json
+torch
+transformers
+re
+pdfplumber
